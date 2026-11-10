@@ -11,7 +11,7 @@
 | 프로젝트 | 내용 | 기술 | 링크 |
 |---|---|---|---|
 | 한화문물연구원 리뉴얼 | 기관 홈페이지 반응형 리뉴얼 | Figma · HTML · CSS · jQuery | [사이트](https://yeonland.github.io/portfolio/project_02/index.html) |
-| 소하 | 디지털 문구 쇼핑몰 (기획·디자인·퍼블리싱) | Photoshop · HTML · CSS · jQuery · Swiper.js | [사이트](https://yeonland.github.io/portfolio/project_01/index.html) |
+| 소하 | 디지털 문구 쇼핑몰 (기획·디자인·퍼블리싱, 2026 반응형 리뉴얼) | Photoshop · HTML · CSS · Sass · jQuery · Swiper.js | [사이트](https://yeonland.github.io/portfolio/project_01/index.html) |
 | 근무 인수인계 웹앱 | 편의점 교대 보고를 자동으로 만드는 모바일 웹, 실제 근무에서 사용 중 | HTML · CSS · JavaScript · Claude Code | [사이트](https://yeonland.github.io/handover/) · [코드](https://github.com/yeonland/handover) |
 | 땅파기전 | 공사 전 문화유산 사전 확인 지도 서비스 | React · Leaflet · Vercel Functions · AI 코딩 도구 | [사이트](https://before-digging.vercel.app/) · [코드](https://github.com/yeonland/before-digging) |
 | 전시갈래 | 공공문화정보 API 기반 전시 탐색 서비스 | React · Vite · Vercel Functions · AI 코딩 도구 | [사이트](https://jeonsi-gallae.vercel.app/) · [코드](https://github.com/yeonland/jeonsi-gallae) |
