@@ -15,6 +15,10 @@
 | 근무 인수인계 웹앱 | 편의점 교대 보고를 자동으로 만드는 모바일 웹, 실제 근무에서 사용 중 | HTML · CSS · JavaScript · Claude Code | [사이트](https://yeonland.github.io/handover/) · [코드](https://github.com/yeonland/handover) |
 | 땅파기전 | 공사 전 문화유산 사전 확인 지도 서비스 | React · Leaflet · Vercel Functions · AI 코딩 도구 | [사이트](https://before-digging.vercel.app/) · [코드](https://github.com/yeonland/before-digging) |
 | 전시갈래 | 공공문화정보 API 기반 전시 탐색 서비스 | React · Vite · Vercel Functions · AI 코딩 도구 | [사이트](https://jeonsi-gallae.vercel.app/) · [코드](https://github.com/yeonland/jeonsi-gallae) |
+| 첫직관 | 처음 경기장에 가는 사람을 위한 직관 가이드 웹앱 (예매·룰·가는 길·직관 기록) | HTML · CSS · JavaScript · PWA · Claude Code | [사이트](https://yeonland.github.io/first-gikgwan/) · [코드](https://github.com/yeonland/first-gikgwan) |
+| 핀잇 | 디자인으로 샵을 찾고 예약 문의 메시지까지 만드는 모바일 앱 | Flutter · Dart · OpenStreetMap · Claude | [사이트](https://pinit-beta.vercel.app/) · [코드](https://github.com/yeonland/pinit-app) |
+| SCENE SIDE | 관심 주제로 영화·드라마를 발견하고 감상을 모으는 콘텐츠 아카이브 | HTML · CSS · JavaScript · TMDB API · Vercel Functions | [사이트](https://ott-watch-planner.vercel.app) · [코드](https://github.com/yeonland/ott-watch-planner) |
+| 기와 | 현장 단서로 문화유산을 읽는 도해 중심 용어 서비스 (한·영) | HTML · CSS · SVG · JavaScript | [사이트](https://yeonland.github.io/giwa/) · [코드](https://github.com/yeonland/giwa) |
 
 ### 할 수 있는 것
 
