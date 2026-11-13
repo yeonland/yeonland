@@ -8,17 +8,24 @@
 
 ### 프로젝트
 
+**웹 퍼블리싱** · 직접 디자인하고 HTML·CSS로 구현
+
 | 프로젝트 | 내용 | 기술 | 링크 |
 |---|---|---|---|
 | 한화문물연구원 리뉴얼 | 기관 홈페이지 반응형 리뉴얼 | Figma · HTML · CSS · jQuery | [사이트](https://yeonland.github.io/portfolio/project_02/index.html) |
 | 소하 | 디지털 문구 쇼핑몰 (기획·디자인·퍼블리싱, 2026 반응형 리뉴얼) | Photoshop · HTML · CSS · Sass · jQuery · Swiper.js | [사이트](https://yeonland.github.io/portfolio/project_01/index.html) |
-| 근무 인수인계 웹앱 | 편의점 교대 보고를 자동으로 만드는 모바일 웹, 실제 근무에서 사용 중 | HTML · CSS · JavaScript · Claude Code | [사이트](https://yeonland.github.io/handover/) · [코드](https://github.com/yeonland/handover) |
-| 땅파기전 | 공사 전 문화유산 사전 확인 지도 서비스 | React · Leaflet · Vercel Functions · AI 코딩 도구 | [사이트](https://before-digging.vercel.app/) · [코드](https://github.com/yeonland/before-digging) |
-| 전시갈래 | 공공문화정보 API 기반 전시 탐색 서비스 | React · Vite · Vercel Functions · AI 코딩 도구 | [사이트](https://jeonsi-gallae.vercel.app/) · [코드](https://github.com/yeonland/jeonsi-gallae) |
-| 첫직관 | 처음 경기장에 가는 사람을 위한 직관 가이드 웹앱 (예매·룰·가는 길·직관 기록) | HTML · CSS · JavaScript · PWA · Claude Code | [사이트](https://yeonland.github.io/first-gikgwan/) · [코드](https://github.com/yeonland/first-gikgwan) |
-| 핀잇 | 디자인으로 샵을 찾고 예약 문의 메시지까지 만드는 모바일 앱 | Flutter · Dart · OpenStreetMap · Claude | [사이트](https://pinit-beta.vercel.app/) · [코드](https://github.com/yeonland/pinit-app) |
-| SCENE SIDE | 관심 주제로 영화·드라마를 발견하고 감상을 모으는 콘텐츠 아카이브 | HTML · CSS · JavaScript · TMDB API · Vercel Functions | [사이트](https://ott-watch-planner.vercel.app) · [코드](https://github.com/yeonland/ott-watch-planner) |
-| 기와 | 현장 단서로 문화유산을 읽는 도해 중심 용어 서비스 (한·영) | HTML · CSS · SVG · JavaScript | [사이트](https://yeonland.github.io/giwa/) · [코드](https://github.com/yeonland/giwa) |
+
+**직접 기획한 서비스** · 문제와 화면은 직접 정하고, 코드는 AI 코딩 도구와 함께 작성
+
+| 프로젝트 | 내용 | 기술 | 링크 |
+|---|---|---|---|
+| 근무 인수인계 | 편의점 교대 보고를 자동으로 만드는 모바일 웹, 실제 근무에서 사용 중 | HTML · CSS · JavaScript | [사이트](https://yeonland.github.io/handover/) · [코드](https://github.com/yeonland/handover) |
+| 첫직관 | 처음 경기장에 가는 사람을 위한 직관 가이드 (예매·룰·가는 길·직관 기록), 7개 종목 | HTML · CSS · JavaScript · PWA | [사이트](https://yeonland.github.io/first-gikgwan/) · [코드](https://github.com/yeonland/first-gikgwan) |
+| 핀잇 | 디자인으로 샵을 고르고 예약 문의 메시지까지 만드는 모바일 앱 | Flutter · Dart · OpenStreetMap | [사이트](https://pinit-beta.vercel.app/) · [코드](https://github.com/yeonland/pinit-app) |
+| 땅파기전 | 공사 전 예정지 주변 문화유산 구역을 지도에서 확인하는 서비스 | React · Leaflet · Vercel Functions | [사이트](https://before-digging.vercel.app/) · [코드](https://github.com/yeonland/before-digging) |
+| 기와 | 현장에서 보이는 단서로 문화유산을 알아보는 도해 용어 서비스 (한·영), 첫 편 남해안 성곽 | HTML · CSS · SVG · JavaScript | [사이트](https://yeonland.github.io/giwa/) · [코드](https://github.com/yeonland/giwa) |
+| 전시갈래 | 공공데이터 API로 전시 정보를 찾아보는 탐색 서비스 | React · Vite · Vercel Functions | [사이트](https://jeonsi-gallae.vercel.app/) · [코드](https://github.com/yeonland/jeonsi-gallae) |
+| SCENE SIDE | 국가·시대·소재 같은 관심 주제로 영화·드라마를 찾고 감상을 모으는 아카이브 | HTML · CSS · JavaScript · TMDB API · Vercel Functions | [사이트](https://ott-watch-planner.vercel.app) · [코드](https://github.com/yeonland/ott-watch-planner) |
 
 ### 할 수 있는 것
 
@@ -26,7 +33,7 @@
 - **웹접근성**: 의미 있는 대체 텍스트와 장식 이미지 구분, 명도 대비, 키보드 접근 고려
 - **스크립트**: jQuery, JavaScript(DOM·이벤트)
 - **디자인**: Figma, Photoshop, Illustrator
-- **AI 활용**: 기능을 작은 단위로 나눠 Claude Code·ChatGPT에 요청하고, 결과를 직접 확인하며 수정
+- **AI 활용**: 기능을 작은 단위로 나눠 Claude Code·ChatGPT에 요청하고, 결과를 직접 확인하며 수정 (React·Flutter 프로젝트도 이 방식으로 완성)
 
 ### 자격·교육
 
